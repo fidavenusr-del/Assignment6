@@ -1,0 +1,54 @@
+h2{
+      color: rgb(222, 64, 143);
+    }
+    /* Hero Section */
+    .hero {
+      background: linear-gradient(#a1deef, #9de2f1, #e0f0f3, #85d9a1, #30c146);
+      padding: 30px 0;
+    }
+    
+    .hero .btn-primary {
+      background-color: #e00f82;
+      border: none;
+    }
+
+    /* About Section */
+    .about {
+      padding: 20px 0;
+    }
+    .about h2 {
+      font-weight: bold;
+    }
+    .about .stat {
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    /* Services Section */
+    .services {
+     
+      padding: 60px 0;
+    }
+    .services .card {
+      border: none;
+      transition: 0.3s;
+    }
+    
+    /* Projects Grid */
+    .projects {
+      padding: 60px 0;
+    }
+    .projects img {
+      width: 100%;
+      border-radius: 5px;
+      margin-bottom: 20px;
+    }
+
+    /* Contact Form */
+    .contact {
+      background: #f8f9fa;
+      padding: 60px 0;
+    }
+     h3{
+      color: rgb(222, 64, 143);
+    }
